@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411632388486",
+    "firebase_url": "https://pay-it-2c48a.firebaseio.com",
+    "project_id": "pay-it-2c48a",
+    "storage_bucket": "pay-it-2c48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411632388486:android:be55cbb9e22f7996b80407",
+        "android_client_info": {
+          "package_name": "com.payapp.pay_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411632388486-1h2mne6brt6cc6m25optg78mdn14iei5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.payapp.pay_app",
+            "certificate_hash": "57b093101dbc2e455b56bcd805096bea897c6dce"
+          }
+        },
+        {
+          "client_id": "411632388486-lbnefdeuql99fne37p3ess6ophad1vjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-YyrIZxCLppZY0QynPPjR2LHxmF_aG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411632388486-lbnefdeuql99fne37p3ess6ophad1vjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
